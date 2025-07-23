@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello everybody, I'm A1risp.
 
-<!--
-**junupack/junupack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👍 Have a good time.  
+🥔 I'm from Entry.  
+🔭 My language is (☆ means I am going to learn):  
+- Python  
+- C☆  
+- C++☆  
+- Java☆  
+- HTML  
+- JavaScript  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🫠 2013.12.6  
+😋 [Entry profile](https://playentry.org/profile/678091bac28305490c81515b/project?sort=created&term=all&isOpen=all)
