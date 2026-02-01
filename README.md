@@ -1,14 +1,3 @@
-# 👋 Hello everybody, I'm A1risp.
-
-👍 Have a good time.  
-🥔 I'm from Entry.  
-🔭 My language is (☆ means I am going to learn):  
-- Python  
-- C☆  
-- C++☆  
-- Java☆  
-- HTML  
-- JavaScript  
-
-🫠 2013.12.6  
-😋 [Entry profile](https://playentry.org/profile/678091bac28305490c81515b/project?sort=created&term=all&isOpen=all)
+# 그냥 나임
+엔트리링크: https://playentry.org/profile/678091bac28305490c81515b/project?sort=created&term=all&isOpen=all)
+이번해목표: 트랜스포머 알고리즘이용 인공지능 제작
